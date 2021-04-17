@@ -1,0 +1,14 @@
+requirements.txt
+
+!pip install pandas=='1.1.5'
+!pip install numpy=='1.19.5'
+!pip install seaborn=='0.11.1'
+!pip install matplotlib=='3.2.2'
+!pip install sklearn=='0.22.2.post1'
+!pip install mlxtend=='0.14.0'
+
+
+As bibliotecas abaixo não foram importadas completas, apenas algumas funções específicas foram trazidas, mas que dentro do Google Colab já está instalado
+Versão do matplotlib -> 3.2.2
+Versão do sklearn -> 0.22.2.post1
+Versão do mlxtend -> 0.14.0
